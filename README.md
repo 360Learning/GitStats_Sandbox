@@ -4,4 +4,4 @@ It will soon be possible to run locally the GitStats app plugged on this repo
 
 Stay tuned....
 
-This is a test with a Company
+This is a test 
